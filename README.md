@@ -1,7 +1,7 @@
-<a name="_Awesome_Books_Js"></a>
+<a name="_Awesome_Books_ES6"></a>
 <div align="center">
   <br/>
-  <h3><b>_Awesome_Books_Js</b></h3>
+  <h3><b>_Awesome_Books_ES6</b></h3>
 </div>
 # 📗 Table of Contents
 
@@ -92,15 +92,9 @@ github pages.
 
 👤 **Author1**
 
-- GitHub [Hisoka37] (https://github.com/Hisoka37)
-
-👤 **Author2**
-
-
-- GitHub: [@EnixWord](https://github.com/EnixWord)
-- Twitter: [@StevMicroverse](https://twitter.com/StevMicroverse)
-- LinkedIn: [Stephen Okhaishie](https://www.linkedin.com/in/stephen-okhaishie-3baa19255/)
-
+- GitHub: [@Hisoka37](https://github.com/Hisoka37)
+- Twitter: [@KBwalid9](https://twitter.com/KBwalid9)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/walidkb/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
