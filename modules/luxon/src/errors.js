@@ -1,3 +1,4 @@
+/* eslint-disable */
 // these aren't really private, but nor are they really useful to document
 
 /**
@@ -56,6 +57,6 @@ export class InvalidArgumentError extends LuxonError {}
  */
 export class ZoneIsAbstractError extends LuxonError {
   constructor() {
-    super("Zone is an abstract class");
+    super('Zone is an abstract class');
   }
 }

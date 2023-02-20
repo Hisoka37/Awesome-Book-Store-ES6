@@ -1,4 +1,5 @@
-import { ZoneIsAbstractError } from "./errors.js";
+/* eslint-disable */
+import { ZoneIsAbstractError } from './errors.js';
 
 /**
  * @interface
