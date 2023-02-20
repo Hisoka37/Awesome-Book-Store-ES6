@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome Books</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="nav-bar">
+        <div class="logo">Awesome Books</div>
+        <ul class="nav-items">
+          <li class="nav-links"><a href="#list" class="link-1">List</a></li>
+          <li class="nav-links">
+            <a href="#form-field" class="link-2">Add new</a>
+          </li>
+          <li class="nav-links">
+            <a href="#contact-field" class="link-3">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="date"></section>
+
+    <main class="flex">
+
+      <h1>Awesome Books</h1>
+      <section>
+        <ul class="add-books"></ul>
+        <br />
+
+        <div class="fill-in">
+          <form action="" class="form">
+            <div class="addlist">Add New Book</div>
+            <input
+              type="text"
+              class="book-title"
+              placeholder="Title"
+            /><br /><br />
+            <input
+              type="text"
+              class="book-author"
+              placeholder="Author"
+            /><br /><br />
+            <button type="submit" class="add">Add</button><br />
+          </form>
+        </div>
+      </section>
+
+      <section class="contact-info" id="contact-field">
+        <h2>Contact information</h2>
+        <p>
+          Do you have any questions or do you just want to say "Hello"? You can
+          reach out to us!
+        </p>
+        <ul class="contact-list">
+          <li>Our email: mail@mail.com</li>
+          <li>Our phone number : 00435865344</li>
+          <li>Our Address: Streetname 22, 804503, City, Country</li>
+        </ul>
+      </section>
+      <footer>
+        <p>Copyright</p>
+      </footer>
+    </main>
+    <script src="spage.js"></script>
+    <script src="index.js" defer></script>
+  </body>
+</html>
