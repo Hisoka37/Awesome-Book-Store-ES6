@@ -47,7 +47,7 @@ HTML5 and css3 which the latest versions and JavaScript were used in this projec
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://hisoka37.github.io/Awesome-Book-Store-ES6/)
 
 <!-- GETTING STARTED -->
 
@@ -64,10 +64,7 @@ Basic knownledge of computer.
 In order to run this project you need:
 live server.
 
-### Setup
-
-Clone this repository to your desired folder:
-https://github.com/Hisoka37/Awesome_Books_Js
+ 
 
 ### Install
 
