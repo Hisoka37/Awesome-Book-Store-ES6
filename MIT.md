@@ -1,5 +1,5 @@
 ## Copyright 2022, 
-Walid Kabboussa, STEPHEN OKHAISHIE.
+Walid Kabboussa
 
 ###### Please delete this line and the next one
 ###### APP TYPE can be a webpage/website, a web app, a software and so on
