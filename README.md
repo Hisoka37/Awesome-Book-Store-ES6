@@ -1,12 +1,12 @@
 <a name=" Awesome Books ES6"></a>
 <div align="center">
   <br/>
-  <h3><b>_Awesome_Books_ES6</b></h3>
+  <h3><b> Awesome Books ES6</b></h3>
 </div>
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[\_Awesome\_Books\_Js\] \_Awesome\_Books\_Js](#-_awesome_books_js-_awesome_books_js)
+- [📖 \[\_Awesome\_Books\_Js\] \_Awesome\_Books\_Js](#Awesome Books ES6)
   - [🛠 Built With Html, css, javascript](#-built-with-html-css-javascript)
     - [Tech Stack HTML5, CSS3 JAVASCRIPT](#tech-stack-html5-css3-javascript)
     - [Key Features ](#key-features-)
