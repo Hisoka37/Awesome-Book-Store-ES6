@@ -24,9 +24,10 @@
   - [📝 License ](#-license-)
   - [📝 License](#-license)
 
-# 📖 [_Awesome_Books_Js] <a name="_Awesome_Books_Js">_Awesome_Books_Js</a>
+# 📖 Awesome Books <a name="_Awesome_Books_Js">_Awesome_Books_Js</a>
 
-This is a _Awesome_Books_Js  project.
+This is a Awesome Books  project.
+
 "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
 
 ## 🛠 Built With <a name="built-with">Html, css, javascript</a>
@@ -39,9 +40,9 @@ HTML5 and css3 which the latest versions and JavaScript were used in this projec
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]** _Awesome_Books_Js built with HTML CSS and javascript
+- **[key_feature_1]** Awesome Books built with HTML CSS and javascript
 - **[key_feature_2]** Dynamiccally loading with javascript.
-- **[key_feature_3]** 
+
 
 <!-- LIVE DEMO -->
 
@@ -98,8 +99,7 @@ github pages.
 - **[future_feature_1]** Refactoring the work section dynamically with Javascript.
 - **[future_feature_2]** List of books.
 - **[future_feature_3]** Remove book button.
-- **[future_feature_4]** 
-- **[future_feature_5]** 
+
 
 <!-- CONTRIBUTING -->
 
@@ -130,6 +130,5 @@ I would like to thank God Almighty and Microverse for the opportunity and motiva
 
 ## 📝 License <a name="license"></a>
 
-## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
