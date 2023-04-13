@@ -24,7 +24,7 @@
   - [📝 License ](#-license-)
   - [📝 License](#-license)
 
-# 📖 Awesome Books <a name="_Awesome_Books_Js">_Awesome_Books_Js</a>
+# 📖  <a name="_Awesome_Books_Js">Awesome Books</a>
 
 This is a Awesome Books  project.
 
