@@ -40,8 +40,8 @@ HTML5 and css3 which the latest versions and JavaScript were used in this projec
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]** Awesome Books built with HTML CSS and javascript
-- **[key_feature_2]** Dynamiccally loading with javascript.
+-  Awesome Books built with HTML CSS and javascript
+-  Dynamiccally loading with javascript.
 
 
 <!-- LIVE DEMO -->
@@ -96,9 +96,9 @@ github pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- **[future_feature_1]** Refactoring the work section dynamically with Javascript.
-- **[future_feature_2]** List of books.
-- **[future_feature_3]** Remove book button.
+-  Refactoring the work section dynamically with Javascript.
+-  List of books.
+-  Remove book button.
 
 
 <!-- CONTRIBUTING -->
