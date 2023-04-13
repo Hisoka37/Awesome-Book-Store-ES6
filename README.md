@@ -3,7 +3,7 @@
   <br/>
   <h3><b> Awesome Books ES6</b></h3>
 </div>
-# 📗 Table of Contents
+📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Awesome Books ES6](#-Awesome-Books-ES6)
