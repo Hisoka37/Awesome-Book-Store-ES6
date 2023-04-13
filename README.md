@@ -3,7 +3,9 @@
   <br/>
   <h3><b> Awesome Books ES6</b></h3>
 </div>
+
 # 📗 Table of Contents
+
 
 - [📖 Awesome Books ES6](#-Awesome-Books-ES6)
   - [🛠 Built With Html, css, javascript](#-built-with-html-css-javascript)
@@ -54,7 +56,7 @@ HTML5 and css3 which the latest versions and JavaScript were used in this projec
 ## 💻 Getting Started <a name="getting-started"></a>
 
  Get your pc.
- Clone this project to your local machine. 
+ Clone this project to your local machine [From here](https://github.com/Hisoka37/Awesome-Book-Store-ES6). 
 
 To get a local copy up and running, follow these steps.
 
@@ -65,16 +67,15 @@ In order to run this project you need:
 live server.
 
  
-
 ### Install
 
 Install this project with:
-cd to _Awesome_Books_Js.
+cd to Awesome Books.
 
 ### Run tests
 
 To run tests, run the following command:
-npm test
+`npm test`
 
 ### Deployment
 
