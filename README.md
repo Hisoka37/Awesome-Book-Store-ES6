@@ -3,9 +3,8 @@
   <br/>
   <h3><b> Awesome Books ES6</b></h3>
 </div>
-📗 Table of Contents
+# 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
 - [📖 Awesome Books ES6](#-Awesome-Books-ES6)
   - [🛠 Built With Html, css, javascript](#-built-with-html-css-javascript)
     - [Tech Stack HTML5, CSS3 JAVASCRIPT](#tech-stack-html5-css3-javascript)
